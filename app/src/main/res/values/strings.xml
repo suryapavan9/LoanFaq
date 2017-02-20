@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LoanFaq</string>
+
+    <string-array name="home1">
+        <item>
+            Thinking of buying your Dream Home? Compare and apply online at loanmantras.com to get instant e-approval for Home Loans
+        Home loans not only help you realize your dreams of buying that house you have always wanted but also help save tax.
+        But sometimes, the procedure of applying and getting a home loan can be complicated and frustrating.
+        To avoid hassles and save cost, you must choose the right home loan.
+        Buying your dream home is an important milestone in your life and requires a lot of planning, thinking and money,
+        but with a wide variety of housing loans available in India,financing your dream home project is just a click away by low interest for home loan.
+        Check your Home Loan eligibility now by filling up form and get best housing loan offers instantly.
+        </item>
+    </string-array>
+    <string-array name="home2">
+        <item>Why Apply for a Home Loan on loanmantras.com?</item>
+    </string-array>
+
+    <string-array name="home3">
+
+        <item>Lowest interest rates: We have coordinated with HDFC Bank, ICICI Bank, Bajaj Finserv and Fullerton to get you the lowest home loan interest rates.</item>
+        <item>Instant Quotes: Get quotes customized to your profile online instantly by filling in the form above.</item>
+        <item>Simple Online Comparison: Compare personal loan offers on the basis of interest rate, EMI, processing fees and customer satisfaction.</item>
+        <item>Transparency: Aimed at helping you make the right choice, we provide objective and transparent information about your loan options.</item>
+        <item>Privacy: Your application is sent only to the lender you choose, and is never shared with anyone else.</item>
+        <item>Trust: HDFC Bank and ICICI Bank India’s leading private sector banks, uses loanmantras.com – powered technology to give their customers the best loan.</item>
+
+    </string-array>
+
+</resources>
